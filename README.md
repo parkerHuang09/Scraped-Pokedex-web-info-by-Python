@@ -1,6 +1,6 @@
 # Scraped Pokémon Pokédex web information by Python
 
-I love pokemon so much, so I decided to scrape Pokémon infomration from website. 
+I am interested about pokemon when I was little, so I decided to scrape Pokémon information from website.
 
 I do this project to help me  
 1. Extract the pokemon related information, such as HP, Attack, Defense.
