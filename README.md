@@ -1,1 +1,1 @@
-# Scraped-Pokedex-web-info-by-Python
+# Scraped Pokémon Pokédex web information by Python
